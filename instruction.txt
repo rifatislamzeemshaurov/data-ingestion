@@ -1,0 +1,7 @@
+1. listen i wana make a rag pipeline it is a clone repo 
+2. in vector_embedding file you will get metadata file and all metadata 
+3. i am planning to make a rag piple of gadget store where there will be no hallucination 
+4. it sould maintain guardraild and answer  shortly it will not make chat verbose 
+5. it will catch  user demand (smart watch, smart tv ,laptop and camera   ) , problem (that can be solved by our product  ),  and hint ( product related )  and suggest product   from vectore database 
+6. please pay a visit to meatadata file and change rag_pipeline.ipynb file according in there you can do what ever you want i just need best reasult and no hallucination 
+7.it should also answer fast  you can also check and change the rag_pipeline.yaml if need dont worry just make it i will ingest and run notebook by myself you just change and make everything for me 

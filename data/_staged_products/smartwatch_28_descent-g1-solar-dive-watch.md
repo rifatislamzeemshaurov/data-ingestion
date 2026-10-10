@@ -1,0 +1,43 @@
+M O D E L   # 2 8   / /   B R A N D :   G A R M I N
+
+Descent G1 Solar Dive Watch
+
+$649.99
+
+HARDWARE PARAMETER
+
+SPECIFICATIONS / ARCHITECTURE
+
+MANUFACTURER / BRAND
+
+Garmin
+
+RETAIL PRICE (USD)
+
+$649.99
+
+MEMORY & STORAGE (RAM / SSD)
+
+1GB RAM / 16GB Dive Data Log
+
+GRAPHICS / COPROCESSOR ASIC
+
+Garmin Dive Computer ASIC + ARM Cortex-M4 Processor
+
+SENSOR ARRAY & CONNECTIVITY
+
+Dual-Band GNSS, Optical PPG, ECG, SpO2, Barometer,
+
+Gyroscope, NFC
+
+>> ARCHITECTURAL DESCRIPTION & FEATURE SET
+
+Compact solar-powered dive computer and smartwatch supporting multiple dive modes,
+
+surface GPS tracking, and dive log sharing.
+
+>> NEURAL RAG VECTOR TELEMETRY MATRIX
+
+EMBEDDING HASH: 0x7F9A001CB2C • REPOSITORY INDEX: SW-2026-028
+
+HARDWARE STATUS: VERIFIED ACTIVE • COMPATIBILITY: ALL QDRANT & PINECONE PIPELINES

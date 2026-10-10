@@ -1,0 +1,45 @@
+M O D E L   # 1 4   / /   B R A N D :   G A R M I N
+
+Epix Pro (Gen 2) Sapphire
+
+$999.99
+
+HARDWARE PARAMETER
+
+SPECIFICATIONS / ARCHITECTURE
+
+MANUFACTURER / BRAND
+
+Garmin
+
+RETAIL PRICE (USD)
+
+$999.99
+
+MEMORY & STORAGE (RAM / SSD)
+
+4GB RAM / 32GB Onboard Memory
+
+GRAPHICS / COPROCESSOR ASIC
+
+Garmin High-Performance Display ASIC + ARM Cortex
+
+Core
+
+SENSOR ARRAY & CONNECTIVITY
+
+Dual-Band GNSS, Optical PPG, ECG, SpO2, Barometer,
+
+Gyroscope, NFC
+
+>> ARCHITECTURAL DESCRIPTION & FEATURE SET
+
+Brilliant AMOLED multisport GPS watch built with a scratch-resistant sapphire lens,
+
+titanium bezel, and built-in adjustable LED flashlight.
+
+>> NEURAL RAG VECTOR TELEMETRY MATRIX
+
+EMBEDDING HASH: 0x7F9A000EB2C • REPOSITORY INDEX: SW-2026-014
+
+HARDWARE STATUS: VERIFIED ACTIVE • COMPATIBILITY: ALL QDRANT & PINECONE PIPELINES

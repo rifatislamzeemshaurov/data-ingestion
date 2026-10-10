@@ -1,0 +1,43 @@
+M O D E L   # 0 7   / /   B R A N D :   G A R M I N
+
+Descent Mk3i Dive Computer
+
+$1,599.99
+
+HARDWARE PARAMETER
+
+SPECIFICATIONS / ARCHITECTURE
+
+MANUFACTURER / BRAND
+
+Garmin
+
+RETAIL PRICE (USD)
+
+$1,599.99
+
+MEMORY & STORAGE (RAM / SSD)
+
+2GB RAM / 32GB Dive Log Memory
+
+GRAPHICS / COPROCESSOR ASIC
+
+Garmin SubWave Sonar ASIC + ARM Cortex Processor
+
+SENSOR ARRAY & CONNECTIVITY
+
+Dual-Band GNSS, Optical PPG, ECG, SpO2, Barometer,
+
+Gyroscope, NFC
+
+>> ARCHITECTURAL DESCRIPTION & FEATURE SET
+
+Advanced air-integration dive computer with underwater messaging, sub-surface sonar
+
+tracking, and full color AMOLED underwater map display.
+
+>> NEURAL RAG VECTOR TELEMETRY MATRIX
+
+EMBEDDING HASH: 0x7F9A0007B2C • REPOSITORY INDEX: SW-2026-007
+
+HARDWARE STATUS: VERIFIED ACTIVE • COMPATIBILITY: ALL QDRANT & PINECONE PIPELINES

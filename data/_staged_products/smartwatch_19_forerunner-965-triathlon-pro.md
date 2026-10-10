@@ -1,0 +1,43 @@
+M O D E L   # 1 9   / /   B R A N D :   G A R M I N
+
+Forerunner 965 Triathlon Pro
+
+$599.99
+
+HARDWARE PARAMETER
+
+SPECIFICATIONS / ARCHITECTURE
+
+MANUFACTURER / BRAND
+
+Garmin
+
+RETAIL PRICE (USD)
+
+$599.99
+
+MEMORY & STORAGE (RAM / SSD)
+
+2GB RAM / 32GB Training Storage
+
+GRAPHICS / COPROCESSOR ASIC
+
+Garmin Training Load ASIC + ARM Cortex-M4 Processor
+
+SENSOR ARRAY & CONNECTIVITY
+
+Dual-Band GNSS, Optical PPG, ECG, SpO2, Barometer,
+
+Gyroscope, NFC
+
+>> ARCHITECTURAL DESCRIPTION & FEATURE SET
+
+Lightweight titanium bezel running watch with vibrant AMOLED display, advanced training
+
+readiness metrics, and multi-band GPS routing.
+
+>> NEURAL RAG VECTOR TELEMETRY MATRIX
+
+EMBEDDING HASH: 0x7F9A0013B2C • REPOSITORY INDEX: SW-2026-019
+
+HARDWARE STATUS: VERIFIED ACTIVE • COMPATIBILITY: ALL QDRANT & PINECONE PIPELINES

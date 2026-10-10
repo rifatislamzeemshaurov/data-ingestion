@@ -1,0 +1,43 @@
+M O D E L   # 2 2   / /   B R A N D :   G A R M I N
+
+Enduro 2 Ultra Endurance
+
+$1,099.99
+
+HARDWARE PARAMETER
+
+SPECIFICATIONS / ARCHITECTURE
+
+MANUFACTURER / BRAND
+
+Garmin
+
+RETAIL PRICE (USD)
+
+$1,099.99
+
+MEMORY & STORAGE (RAM / SSD)
+
+4GB RAM / 32GB Topo Map Storage
+
+GRAPHICS / COPROCESSOR ASIC
+
+Garmin Solar Power Glass ASIC + ARM Cortex Processor
+
+SENSOR ARRAY & CONNECTIVITY
+
+Dual-Band GNSS, Optical PPG, ECG, SpO2, Barometer,
+
+Gyroscope, NFC
+
+>> ARCHITECTURAL DESCRIPTION & FEATURE SET
+
+Ultimate ultra-marathon running watch featuring solar sapphire charging that delivers up
+
+to 150 hours of continuous GPS battery life.
+
+>> NEURAL RAG VECTOR TELEMETRY MATRIX
+
+EMBEDDING HASH: 0x7F9A0016B2C • REPOSITORY INDEX: SW-2026-022
+
+HARDWARE STATUS: VERIFIED ACTIVE • COMPATIBILITY: ALL QDRANT & PINECONE PIPELINES
